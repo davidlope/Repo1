@@ -1,3 +1,3 @@
 # BroodParasiteDescription
-Code and data associated with Bp description manuscript
-https://zenodo.org/badge/doi/10.5281/zenodo.17804.svg
+Code and data associated with future manuscript on the prediction of boiling and melting points using the UPPER approach by Dr. Samuel Yalkowsky and his lab
+
